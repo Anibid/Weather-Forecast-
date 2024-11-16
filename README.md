@@ -1,2 +1,2 @@
 # Weather-Forecast-
-weather forecast application
+weather forecast application using javascript
